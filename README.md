@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ivancheniot/ivancheniot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Bonjour!
+Je travaille sur des scripts d'administration Linux en bash ou d'autres langages.
+J'apprends le shell, bash en particulier. J'apprendrai d'autres langages si nécessaire (perl, python, node.js).
+Vous pouvez me joindre à ivan.cheniot@gmail.com ou ivan.cheniot@u-paris.fr.
